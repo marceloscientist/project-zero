@@ -1,0 +1,44 @@
+#accordion {
+    margin-top: 10px;
+}
+
+
+.btn-link {
+    font-weight: 600;
+    color: #007bff;
+    background-color: transparent;
+    
+}
+
+
+.card {
+    display: inline;
+    border: 0px;
+}
+
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    /* background-color: rgba(70, 191, 167, 0.22); */
+    /* border-bottom: 0px solid rgba(0,0,0,.125); */
+    border-bottom: 0px;
+    background-color: rgba(24, 167, 152, 0.08);
+}
+
+.card-body {
+    background: rgba(39, 136, 210, 0.18);
+}    
+
+footer {
+    background-color: #333;
+    color: #FFF;
+    padding: 20px;
+}
+
+footer address:last-child {
+    margin-bottom: 0;
+}
+
+section {
+    margin-top: 10px;
+}
